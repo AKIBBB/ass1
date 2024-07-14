@@ -1,0 +1,50 @@
+body {
+    background-color: rgb(162, 155, 155);
+  }
+
+.logo{
+    height: 60px;
+    width: 40px;
+    margin-left: 100px;
+    
+}
+.navconatiner{
+margin-right: 300px;
+color: white;
+}
+#button1{
+    color: brown;
+    background-color: black;
+}
+.icons{
+    display: flex;
+    justify-content: left;
+    gap: 30px;
+    margin: 10px;
+    padding-top: 30px;
+}
+
+
+
+#pq{
+    font-weight: bold;
+    color: cyan;
+}
+
+
+.border1{
+    margin-left: 220px;
+    margin-right: 220px;
+    border: 1px solid blueviolet;
+}
+.border{
+    background-color: rgb(75, 44, 44);
+    text-align: center;
+}
+
+
+
+
+
+
+
